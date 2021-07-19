@@ -1,16 +1,16 @@
-# sary_challenge
+# Sary Challenge 🔥
 
-A new Flutter project.
+This application is used by (U.N.I.S.H.F) United Nations Super Heroes Fund to help them managing their heroes 🦸‍♂️
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Once the the project is in your IDE, you can launch it immediatly without any dependncies. The application is responsive and works perfectly with different types of screens. 
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The application does not require internet, it uses JSON file as a replacement for network requests.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![image](https://i.ibb.co/9gCbDbG/Screen-Shot-2021-07-19-at-11-04-38-PM.png)
+![image](https://i.ibb.co/0McwLtv/Screen-Shot-2021-07-19-at-11-04-24-PM.png)
