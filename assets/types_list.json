@@ -1,0 +1,6 @@
+{
+  "types": [
+    { "id": 1, "title": "Attack", "color": "#fc6565" },
+    { "id": 2, "title": "Defense", "color": "#578fff" }
+  ]
+}

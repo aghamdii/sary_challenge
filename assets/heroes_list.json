@@ -1,0 +1,147 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Lemillion",
+      "picUrl": "https://i.pinimg.com/736x/39/42/84/394284f36bb3a2e55149db8691f14193.jpg",
+      "description": "Mirio Togata, also known as Lemillion, is a student in Class 3-B at U.A. High School and is part of the The Big 3. Mirio was originally the top candidate to become All Might's successor and the inheritor of One For All before he met Izuku Midoriya.",
+      "rating": 4,
+      "powers": [
+        {
+          "title": "Phantom Menace!",
+          "type": {
+            "id": 1,
+            "title": "Attack",
+            "color": "#fc6565"
+          }
+        },
+
+        {
+          "title": "Eye Crusher",
+          "type": {
+            "id": 1,
+            "title": "Attack",
+            "color": "#fc6565"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "All Might",
+      "picUrl": "https://static.wikia.nocookie.net/51f6a3af-3b0d-4776-886c-5ddbe73cabdd",
+      "description": "All Might was the eighth holder of the One For All Quirk after receiving it from Nana Shimura. He has since passed the torch to Izuku Midoriya, whom he is training to be his successor. After using up all the embers of One For All to defeat All For One, All Might retired and ended his era as the world's greatest hero.",
+      "rating": 5,
+      "powers": [
+        {
+          "title": "United States smash!",
+          "type": {
+            "id": 1,
+            "title": "Attack",
+            "color": "#fc6565"
+          }
+        },
+        {
+          "title": "Carolina Smash",
+          "type": {
+            "id": 1,
+            "title": "Attack",
+            "color": "#fc6565"
+          }
+        },
+        {
+          "title": "California Smash",
+          "type": {
+            "id": 1,
+            "title": "Attack",
+            "color": "#fc6565"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Endeavour",
+      "picUrl": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2019/06/2.-Endeavor-Cropped.jpg",
+      "description": "Enji Todoroki, also known as the Flame Hero: Endeavor is the Pro Hero with the highest tally of resolved cases in history, husband to Rei Todoroki, and father of Toya, Fuyumi, Natsuo, and Shoto Todoroki. Following All Might's retirement, Enji temporarily became the No. 1 Hero.",
+      "rating": 5,
+      "powers": [
+        {
+          "title": "Prominence Burn",
+          "type": {
+            "id": 1,
+            "title": "Attack",
+            "color": "#fc6565"
+          }
+        },
+        {
+          "title": "Flashfire Fist",
+          "type": {
+            "id": 1,
+            "title": "Attack",
+            "color": "#fc6565"
+          }
+        },
+        {
+          "title": "Fire Shield",
+          "type": {
+            "id": 2,
+            "title": "Defense",
+            "color": "#578fff"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Red Riot",
+      "picUrl": "https://i1.sndcdn.com/artworks-000647891782-dmsjdd-t500x500.jpg",
+      "description": "Eijiro Kirishima, also known as the Sturdy Hero: Red Riot, is a student in Class 1-A at U.A. High School, training to become a Pro Hero.",
+      "rating": 4,
+      "powers": [
+        {
+          "title": "Red Gauntlet",
+          "type": {
+            "id": 1,
+            "title": "Attack",
+            "color": "#fc6565"
+          }
+        },
+        {
+          "title": "Red Counter",
+          "type": {
+            "id": 1,
+            "title": "Attack",
+            "color": "#fc6565"
+          }
+        },
+        {
+          "title": "Red Riot Unbreakable",
+          "type": {
+            "id": 2,
+            "title": "Defense",
+            "color": "#578fff"
+          }
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "name": "Fat Gum",
+      "picUrl": "https://64.media.tumblr.com/f93d817c579f698556aeec15849cb23c/445ce579c4d0cd97-25/s250x250_c1/9e160676998665ddca748d631e0b3e31ae7e6eee.jpg",
+      "rating": 4,
+      "description": "Taishiro Toyomitsu , also known as BMI Hero: Fat Gum, is the current No. 58 Pro Hero. He employed Tamaki Amajiki and Eijiro Kirishima during the Shie Hassaikai Arc.",
+      "powers": [
+        {
+          "title": "Fat Absorption",
+          "type": {
+            "id": 2,
+            "title": "Defense",
+            "color": "#578fff"
+          }
+        }
+      ]
+    }
+  ]
+}
